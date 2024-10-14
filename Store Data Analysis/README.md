@@ -10,7 +10,7 @@ The goal of this project is to create an annual sales report for the year 2022. 
 
 This dashboard provides a comprehensive view of the store’s performance in 2022, covering key metrics like sales, orders, demographics, and top categories.
 
-![Dashboard Overview](/assets/sample-1.png)
+![Dashboard Overview](https://raw.githubusercontent.com/AbidHasanRafi/Excel---Data-Analysis-Projects/main/Store%20Data%20Analysis/assets/sample-1.png)
 
 ## Key Questions Addressed
 
@@ -26,22 +26,22 @@ This dashboard provides a comprehensive view of the store’s performance in 202
 ## Visualizations
 
 1. **Orders vs Sales**  
-   <img src="/assets/sample-2.png" alt="Orders vs Sales" width="700"/>
+   <img src="https://raw.githubusercontent.com/AbidHasanRafi/Excel---Data-Analysis-Projects/main/Store%20Data%20Analysis/assets/sample-2.png" alt="Orders vs Sales" width="700"/>
 
 2. **Sales: Men vs Women**  
-   <img src="/assets/sample-3.png" alt="Men vs Women Sales Comparison" width="700"/>
+   <img src="https://raw.githubusercontent.com/AbidHasanRafi/Excel---Data-Analysis-Projects/main/Store%20Data%20Analysis/assets/sample-3.png" alt="Men vs Women Sales Comparison" width="700"/>
 
 3. **Order Status Breakdown**  
-   <img src="/assets/sample-4.png" alt="Order Status" width="700"/>
+   <img src="https://raw.githubusercontent.com/AbidHasanRafi/Excel---Data-Analysis-Projects/main/Store%20Data%20Analysis/assets/sample-4.png" alt="Order Status" width="700"/>
 
 4. **Top 5 States by Sales**  
-   <img src="/assets/sample-5.png" alt="Top 5 States" width="700"/>
+   <img src="https://raw.githubusercontent.com/AbidHasanRafi/Excel---Data-Analysis-Projects/main/Store%20Data%20Analysis/assets/sample-5.png" alt="Top 5 States" width="700"/>
 
 5. **Age vs Gender Analysis**  
-   <img src="/assets/sample-6.png" alt="Age vs Gender Sales" width="700"/>
+   <img src="https://raw.githubusercontent.com/AbidHasanRafi/Excel---Data-Analysis-Projects/main/Store%20Data%20Analysis/assets/sample-6.png" alt="Age vs Gender Sales" width="700"/>
 
 6. **Order Channels Contribution**  
-   <img src="/assets/sample-7.png" alt="Order Channels" width="700"/>
+   <img src="https://raw.githubusercontent.com/AbidHasanRafi/Excel---Data-Analysis-Projects/main/Store%20Data%20Analysis/assets/sample-7.png" alt="Order Channels" width="700"/>
 
 ## Sample Insights
 
